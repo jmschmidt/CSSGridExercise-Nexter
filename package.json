@@ -1,7 +1,7 @@
 {
   "name": "Nexter",
   "version": "1.0.0",
-  "description": "Nexter Static Flexbox Page",
+  "description": "Nexter Static Page using CSS Grid layout",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
